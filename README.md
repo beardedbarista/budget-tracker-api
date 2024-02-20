@@ -1,4 +1,4 @@
-####Envelope Budget API
+### Envelope Budget API
 
 This API provides functionalities to manage envelopes for budgeting purposes. Envelopes represent different spending categories, and users can update, retrieve, and delete envelopes as needed.
 ### Prerequisites
